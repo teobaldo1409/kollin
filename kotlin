@@ -1,0 +1,18 @@
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+    
+println("chupax-eae mn de boa fiquei sabendo que sua namorada vai vir ne?")
+println("vasco print-e ela vai vir mesmo vc vai ver ela e bem bonita")
+println("vasco print-ai ela chegou eae amor esse e meu amigo")
+println("carolina-a e esse seu amigo muito prazer em te conhecer ele fala muito bem de vc para mim")
+println("chupax-a obrigado bom saber que ele tem muita consideração por mim muito obrigado em te conhecer")
+println("vasco print-viu mn ela e mt gente boa e eu tenho consideração por vc")
+println("carolina-a ta bom amor agr eu vo ali e ja volto")
+println("vasco print-ta bom")
+println("chupax-ela sua mina ne")
+println("vasco print-sim pq?")
+println("chupax-se ela continuar com esse 'muito prazer'eu vou ter que perfu... ela")
+}

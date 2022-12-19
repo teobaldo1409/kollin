@@ -3,16 +3,34 @@
  * play.kotlinlang.org
  */
 fun main() {
-    
-println("chupax-eae mn de boa fiquei sabendo que sua namorada vai vir ne?")
-println("vasco print-e ela vai vir mesmo vc vai ver ela e bem bonita")
-println("vasco print-ai ela chegou eae amor esse e meu amigo")
-println("carolina-a e esse seu amigo muito prazer em te conhecer ele fala muito bem de vc para mim")
-println("chupax-a obrigado bom saber que ele tem muita consideração por mim muito obrigado em te conhecer")
-println("vasco print-viu mn ela e mt gente boa e eu tenho consideração por vc")
-println("carolina-a ta bom amor agr eu vo ali e ja volto")
-println("vasco print-ta bom")
-println("chupax-ela sua mina ne")
-println("vasco print-sim pq?")
-println("chupax-se ela continuar com esse 'muito prazer'eu vou ter que perfu... ela")
+/*variaveis guardam valores
+//var mutavel seu valor pode ser alterado
+//val nao mutavel seu valor nao pode ser alterado
+//
+//TIPOS DE VARIAVEIS(principais)
+//string tipo de variavel que armazena textos no geral(xaracteres)
+//boolean verdadeiro ou falso,sim ou nao,1 ou 0
+//int numeros inteiros
+//float numeros reais (com um numero baixo de casas decimais)
+//double numeros reais tmb (numero alto de casas decimais)
+//long numeros reais (numero altissimo de casas decimais(numero completo))
+*//*
+var nome = "messi"
+var idade = 35
+var thebest = 7
+
+ println("o nome dele e " + nome +",a idade dele e " + idade + ",e ele ja foi " + thebest + " vezes o the best")   
+ println("o nome dele e $nome , a idade dele e $idade , e ele ja foi $thebest vezes o the best")
+ */    
+//exercício     
+
+//faça uma apresentação de si mesmo dizendo o nome,idade,pais e cidade atraves de variaveis
+var nome = "kaua"
+var number = 14
+var pais = "brasil"
+var sao = "sao paulo"
+
+println("o meu nome e $nome,tenho $number anos,moro atualmente no $pais,e na cidade de $sao")
+
+
 }

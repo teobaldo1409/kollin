@@ -25,12 +25,56 @@ var thebest = 7
 //exercício     
 
 //faça uma apresentação de si mesmo dizendo o nome,idade,pais e cidade atraves de variaveis
-var nome = "kaua"
+/*
+    var nome = "kaua"
 var number = 14
 var pais = "brasil"
 var sao = "sao paulo"
 
 println("o meu nome e $nome,tenho $number anos,moro atualmente no $pais,e na cidade de $sao")
 
-
+var num1 = 98
+var num2 = 57
+var resultado = num1 - num2
+println(resultado)
+*/
+//operdores logicos
+// -  subtração 
+//+  adição 
+//*  multiplicação 
+// /  divisão 
+// %  modulo
+//operadores relacionais
+//== igual a algo
+//!= difente a algo
+//> maior que algo    
+//< menor que algo    
+//>= maior ou igual    
+//<= menor ou igual    
+//    
+//++ adicionar 1 para o valor    
+//-- subtrai 1 para o valor    
+// if e else    
+/*
+    var dia = 26    
+if(dia <= 21){println("hoje tem aula")}else{println("hoje nao tem aula")}
+*/    
+// if e else composto    
+var vidas = 5    
+ if(vidas <= 0){println("tu ta morto bro")}else if(vidas == 1){println("tu ta morrendo")}else if(vidas == 2){println('ce nao ta muito bem se cuida ae')
+ }else if(vidas == 3){println("tu ta ok so come menos miojo")}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }

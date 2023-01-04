@@ -63,6 +63,33 @@ if(dia <= 21){println("hoje tem aula")}else{println("hoje nao tem aula")}
 var vidas = 5    
  if(vidas <= 0){println("tu ta morto bro")}else if(vidas == 1){println("tu ta morrendo")}else if(vidas == 2){println('ce nao ta muito bem se cuida ae')
  }else if(vidas == 3){println("tu ta ok so come menos miojo")}   
+ /**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ *//*
+fun main() {
+var numero1 = 41
+var numero2 = 10 
+if(numero1 > numero2){println(numero1)
+}else{println(numero2)}    
+   
+var numero = 10
+if(numero > 10){println("o numero e maior que zero")
+}else if(numero < 0 ){println("o numero e menor que zero")
+}elseprintln("o numero e igual a zero")
+}   
+
+var coracoes = 20    
+var vidas = 30    
+
+if(coracoes <= 0 && vidas <= 0){
+    println("game over")
+}else{println("jogo vai ser reiniciado")
+}    
+*/ var mes = 3   
+when(mes){1 ->{println("janeiro")} 2 ->{pritln("fevereiro")}
+ 3 ->{println("marco")} 4 ->{pritln("abril")}    
+}    
     
     
     
@@ -77,4 +104,8 @@ var vidas = 5
     
     
     
-}
+    
+    
+    
+    
+   
